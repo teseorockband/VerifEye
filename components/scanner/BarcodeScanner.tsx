@@ -29,7 +29,8 @@ export default function BarcodeScanner({ locale }: BarcodeScannerProps) {
   );
 
   const startScanning = useCallback(async () => {
-    if (!videoRef.current) return;
+    const videoEl = videoRef.current;
+    if (!videoEl) return;
     setStatus('scanning');
     setError(null);
 
@@ -37,7 +38,7 @@ export default function BarcodeScanner({ locale }: BarcodeScannerProps) {
       const reader = new BrowserMultiFormatReader();
       readerRef.current = reader;
 
-      await reader.decodeFromVideoDevice(undefined, videoRef.current, (result, err) => {
+      await reader.decodeFromVideoDevice(undefined, videoEl, (result, err) => {
         if (result) {
           reader.reset();
           navigateToProduct(result.getText());
