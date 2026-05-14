@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "scan": "Escanear",
+    "search": "Buscar",
+    "directory": "Directorio",
+    "report": "Reportar"
+  },
+  "home": {
+    "title": "VerifEye",
+    "tagline": "Información transparente sobre el origen de los productos",
+    "scanCta": "Escanear código de barras",
+    "searchPlaceholder": "Buscar producto o marca..."
+  },
+  "linkLevel": {
+    "none": "Sin vínculo detectado",
+    "indirect": "Vínculo indirecto",
+    "direct": "Vínculo directo",
+    "produced_in_israel": "Fabricado en Israel",
+    "produced_in_settlements": "Fabricado en asentamientos"
+  },
+  "product": {
+    "origin": "País de origen",
+    "manufacturer": "Fabricante",
+    "parentCompany": "Empresa matriz",
+    "linkLevel": "Nivel de vínculo",
+    "sources": "Fuentes",
+    "lastVerified": "Última verificación",
+    "alternatives": "Alternativas sugeridas",
+    "noAlternatives": "No hay alternativas registradas",
+    "reportError": "Reportar error"
+  },
+  "scanner": {
+    "title": "Escanear producto",
+    "instructions": "Apunta la cámara al código de barras",
+    "manualEntry": "Introducir código manualmente",
+    "searching": "Buscando producto..."
+  },
+  "directory": {
+    "title": "Directorio de productos",
+    "filterCategory": "Categoría",
+    "filterLink": "Tipo de vínculo",
+    "allCategories": "Todas las categorías",
+    "allLinks": "Todos los vínculos",
+    "noResults": "No se encontraron productos con estos filtros"
+  },
+  "disclaimer": {
+    "text": "La información proporcionada es únicamente para uso personal del consumidor. No constituye asesoría legal ni llamada al boicot. Consulte la legislación local antes de actuar sobre esta información.",
+    "methodology": "Ver metodología de clasificación"
+  },
+  "categories": {
+    "food": "Alimentación",
+    "cosmetics": "Cosmética",
+    "technology": "Tecnología",
+    "fashion": "Moda",
+    "household": "Hogar",
+    "other": "Otros"
+  },
+  "report": {
+    "title": "Reportar información",
+    "productEan": "Código EAN del producto",
+    "description": "Descripción del problema o corrección",
+    "sourceUrl": "URL de la fuente (obligatorio)",
+    "submit": "Enviar reporte",
+    "success": "Reporte enviado. Será revisado por nuestro equipo.",
+    "loginRequired": "Inicia sesión para enviar reportes"
+  },
+  "errors": {
+    "notFound": "Producto no encontrado",
+    "scanError": "Error al leer el código de barras",
+    "generic": "Ha ocurrido un error. Inténtalo de nuevo."
+  }
+}

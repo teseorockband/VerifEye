@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "scan": "Scanner",
+    "search": "Rechercher",
+    "directory": "Répertoire",
+    "report": "Signaler"
+  },
+  "home": {
+    "title": "VerifEye",
+    "tagline": "Informations transparentes sur l'origine des produits",
+    "scanCta": "Scanner le code-barres",
+    "searchPlaceholder": "Rechercher un produit ou une marque..."
+  },
+  "linkLevel": {
+    "none": "Aucun lien détecté",
+    "indirect": "Lien indirect",
+    "direct": "Lien direct",
+    "produced_in_israel": "Fabriqué en Israël",
+    "produced_in_settlements": "Fabriqué dans les colonies"
+  },
+  "product": {
+    "origin": "Pays d'origine",
+    "manufacturer": "Fabricant",
+    "parentCompany": "Société mère",
+    "linkLevel": "Niveau de lien",
+    "sources": "Sources",
+    "lastVerified": "Dernière vérification",
+    "alternatives": "Alternatives suggérées",
+    "noAlternatives": "Aucune alternative enregistrée",
+    "reportError": "Signaler une erreur"
+  },
+  "scanner": {
+    "title": "Scanner un produit",
+    "instructions": "Pointez la caméra vers le code-barres",
+    "manualEntry": "Saisir le code manuellement",
+    "searching": "Recherche du produit..."
+  },
+  "directory": {
+    "title": "Répertoire de produits",
+    "filterCategory": "Catégorie",
+    "filterLink": "Type de lien",
+    "allCategories": "Toutes les catégories",
+    "allLinks": "Tous les liens",
+    "noResults": "Aucun produit trouvé avec ces filtres"
+  },
+  "disclaimer": {
+    "text": "Les informations fournies sont uniquement destinées à l'usage personnel du consommateur. Elles ne constituent pas un conseil juridique ni un appel au boycott. Vérifiez la législation locale avant d'agir sur ces informations.",
+    "methodology": "Voir la méthodologie de classification"
+  },
+  "categories": {
+    "food": "Alimentation",
+    "cosmetics": "Cosmétiques",
+    "technology": "Technologie",
+    "fashion": "Mode",
+    "household": "Maison",
+    "other": "Autre"
+  },
+  "report": {
+    "title": "Signaler une information",
+    "productEan": "Code EAN du produit",
+    "description": "Description du problème ou de la correction",
+    "sourceUrl": "URL de la source (obligatoire)",
+    "submit": "Envoyer le signalement",
+    "success": "Signalement envoyé. Notre équipe l'examinera.",
+    "loginRequired": "Connectez-vous pour envoyer des signalements"
+  },
+  "errors": {
+    "notFound": "Produit introuvable",
+    "scanError": "Erreur lors de la lecture du code-barres",
+    "generic": "Une erreur s'est produite. Veuillez réessayer."
+  }
+}

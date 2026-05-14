@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "scan": "Scansiona",
+    "search": "Cerca",
+    "directory": "Elenco",
+    "report": "Segnala"
+  },
+  "home": {
+    "title": "VerifEye",
+    "tagline": "Informazioni trasparenti sull'origine dei prodotti",
+    "scanCta": "Scansiona il codice a barre",
+    "searchPlaceholder": "Cerca prodotto o marca..."
+  },
+  "linkLevel": {
+    "none": "Nessun collegamento rilevato",
+    "indirect": "Collegamento indiretto",
+    "direct": "Collegamento diretto",
+    "produced_in_israel": "Prodotto in Israele",
+    "produced_in_settlements": "Prodotto negli insediamenti"
+  },
+  "product": {
+    "origin": "Paese di origine",
+    "manufacturer": "Produttore",
+    "parentCompany": "Società madre",
+    "linkLevel": "Livello di collegamento",
+    "sources": "Fonti",
+    "lastVerified": "Ultima verifica",
+    "alternatives": "Alternative suggerite",
+    "noAlternatives": "Nessuna alternativa registrata",
+    "reportError": "Segnala un errore"
+  },
+  "scanner": {
+    "title": "Scansiona prodotto",
+    "instructions": "Punta la fotocamera sul codice a barre",
+    "manualEntry": "Inserisci il codice manualmente",
+    "searching": "Ricerca prodotto..."
+  },
+  "directory": {
+    "title": "Elenco prodotti",
+    "filterCategory": "Categoria",
+    "filterLink": "Tipo di collegamento",
+    "allCategories": "Tutte le categorie",
+    "allLinks": "Tutti i collegamenti",
+    "noResults": "Nessun prodotto trovato con questi filtri"
+  },
+  "disclaimer": {
+    "text": "Le informazioni fornite sono esclusivamente per uso personale del consumatore. Non costituiscono consulenza legale né invito al boicottaggio. Verificare la legislazione locale prima di agire su queste informazioni.",
+    "methodology": "Visualizza la metodologia di classificazione"
+  },
+  "categories": {
+    "food": "Alimentazione",
+    "cosmetics": "Cosmetica",
+    "technology": "Tecnologia",
+    "fashion": "Moda",
+    "household": "Casa",
+    "other": "Altro"
+  },
+  "report": {
+    "title": "Segnala informazione",
+    "productEan": "Codice EAN del prodotto",
+    "description": "Descrizione del problema o della correzione",
+    "sourceUrl": "URL della fonte (obbligatorio)",
+    "submit": "Invia segnalazione",
+    "success": "Segnalazione inviata. Il nostro team la esaminerà.",
+    "loginRequired": "Accedi per inviare segnalazioni"
+  },
+  "errors": {
+    "notFound": "Prodotto non trovato",
+    "scanError": "Errore nella lettura del codice a barre",
+    "generic": "Si è verificato un errore. Riprova."
+  }
+}

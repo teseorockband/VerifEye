@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "scan": "Scan",
+    "search": "Search",
+    "directory": "Directory",
+    "report": "Report"
+  },
+  "home": {
+    "title": "VerifEye",
+    "tagline": "Transparent information about product origins",
+    "scanCta": "Scan barcode",
+    "searchPlaceholder": "Search product or brand..."
+  },
+  "linkLevel": {
+    "none": "No link detected",
+    "indirect": "Indirect link",
+    "direct": "Direct link",
+    "produced_in_israel": "Produced in Israel",
+    "produced_in_settlements": "Produced in settlements"
+  },
+  "product": {
+    "origin": "Country of origin",
+    "manufacturer": "Manufacturer",
+    "parentCompany": "Parent company",
+    "linkLevel": "Link level",
+    "sources": "Sources",
+    "lastVerified": "Last verified",
+    "alternatives": "Suggested alternatives",
+    "noAlternatives": "No alternatives registered",
+    "reportError": "Report an error"
+  },
+  "scanner": {
+    "title": "Scan product",
+    "instructions": "Point camera at barcode",
+    "manualEntry": "Enter code manually",
+    "searching": "Searching product..."
+  },
+  "directory": {
+    "title": "Product directory",
+    "filterCategory": "Category",
+    "filterLink": "Link type",
+    "allCategories": "All categories",
+    "allLinks": "All links",
+    "noResults": "No products found with these filters"
+  },
+  "disclaimer": {
+    "text": "The information provided is for personal consumer use only. It does not constitute legal advice or a call to boycott. Check local legislation before acting on this information.",
+    "methodology": "View classification methodology"
+  },
+  "categories": {
+    "food": "Food",
+    "cosmetics": "Cosmetics",
+    "technology": "Technology",
+    "fashion": "Fashion",
+    "household": "Household",
+    "other": "Other"
+  },
+  "report": {
+    "title": "Report information",
+    "productEan": "Product EAN code",
+    "description": "Description of the issue or correction",
+    "sourceUrl": "Source URL (required)",
+    "submit": "Submit report",
+    "success": "Report submitted. Our team will review it.",
+    "loginRequired": "Log in to submit reports"
+  },
+  "errors": {
+    "notFound": "Product not found",
+    "scanError": "Error reading barcode",
+    "generic": "An error occurred. Please try again."
+  }
+}
