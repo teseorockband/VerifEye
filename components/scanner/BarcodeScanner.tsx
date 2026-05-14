@@ -38,7 +38,7 @@ export default function BarcodeScanner({ locale }: BarcodeScannerProps) {
       const reader = new BrowserMultiFormatReader();
       readerRef.current = reader;
 
-      await reader.decodeFromVideoDevice(undefined, videoEl, (result, err) => {
+      await reader.decodeFromVideoDevice(null, videoEl, (result, err) => {
         if (result) {
           reader.reset();
           navigateToProduct(result.getText());
